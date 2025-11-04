@@ -24,8 +24,7 @@ obj = cse()
 obj.mech(radius)
 
 ## Output
-Enter the radius of the circle: 7
-Area of Circle: 153.93804002589985
+![Screenshot 2025-04-28 225525](https://github.com/user-attachments/assets/732d2ade-138c-4452-af08-c761fa1b92fd)
 
 ## Result
 The program successfully calculates the area of a circle using a class (cse) and a method (mech) in Python.
