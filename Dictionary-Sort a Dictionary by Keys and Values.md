@@ -41,7 +41,10 @@ print("Sorted by Values:", sorted_by_values)
 Original Dictionary: {'banana': 3, 'apple': 5, 'cherry': 2, 'date': 4}
 Sorted by Keys: {'apple': 5, 'banana': 3, 'cherry': 2, 'date': 4}
 Sorted by Values: {'cherry': 2, 'banana': 3, 'date': 4, 'apple': 5}
+```
+## Sample Output
 
+![image](https://github.com/user-attachments/assets/a550855e-67ac-49f1-b4ae-9416d11fd693)
 ## Result
 The program successfully sorts a dictionary both by keys (alphabetically) and by values (ascending order).
 
