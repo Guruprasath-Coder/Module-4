@@ -18,10 +18,11 @@ try:
     print(list1[5])
 except IndexError:
     print("You're out of list range")
-
+```
 
 ## Output
-You're out of list range
+
+![Screenshot 2025-04-28 230606](https://github.com/user-attachments/assets/caa1949e-6a6a-4c0e-b152-491520238b0c)
 
 ## Result
 The program successfully demonstrates exception handling by catching an IndexError when trying to access an index beyond the available range of the list, preventing program crash.
