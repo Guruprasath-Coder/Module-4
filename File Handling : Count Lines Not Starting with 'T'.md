@@ -19,9 +19,9 @@ with open("story.txt", "r") as file:
         if not line.startswith("T"):
             count += 1
 print("Number of lines not starting with 'T':", count)
-
+```
 ## Output
-Number of lines not starting with 'T': 3
+![Screenshot (148)](https://github.com/user-attachments/assets/584ecff1-9dfb-4670-b1c8-ee354a85ed3d)
 
 ## Result
 The program successfully counts and displays the number of lines in story.txt that do not start with the alphabet 'T'.
