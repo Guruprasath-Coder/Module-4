@@ -22,7 +22,7 @@ class cse:
 radius = float(input("Enter the radius of the circle: "))
 obj = cse()
 obj.mech(radius)
-
+```
 ## Output
 ![Screenshot 2025-04-28 225525](https://github.com/user-attachments/assets/732d2ade-138c-4452-af08-c761fa1b92fd)
 
